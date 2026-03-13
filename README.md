@@ -16,7 +16,7 @@ assets/            # Imagens das moedas e outros recursos visuais
 ```
 
 ## Deploy
-[Acesse o projeto online]()
+[Acesse o projeto online](https://lucasferreiraprogramador.github.io/convert-money/)
 
 ## Como usar
 1. Abra o arquivo `index.html` em seu navegador.
