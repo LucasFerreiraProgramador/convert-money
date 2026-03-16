@@ -31,5 +31,10 @@ assets/            # Imagens das moedas e outros recursos visuais
 - Projeto desenvolvido durante o curso DevClub.
 - Imagens de moedas e background disponíveis na pasta `assets/`.
 
-## Licença
-Este projeto é apenas para fins educacionais.
+## 👤 Autor
+- [Lucas Ferreira](https://lucas.ferreiradev.com/)
+- [GitHub](https://github.com/LucasFerreiraProgramador)
+- [LinkedIn](https://www.linkedin.com/in/lucasferreira-dev-front-end/)
+
+## 📄 Licença
+Este projeto foi desenvolvido para fins de estudo e prática de desenvolvimento Front-End.
