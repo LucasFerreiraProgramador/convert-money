@@ -12,7 +12,7 @@ Este projeto é um conversor de moedas simples desenvolvido junto no DevClub. El
 index.html         # Página principal
 script.js          # Lógica de conversão e manipulação do DOM
 style.css          # Estilos da aplicação
-assets/            # Imagens das moedas e outros recursos visuais
+assets/            # Imagens das moedas e outros recursos visuais 
 ```
 
 ## Deploy
