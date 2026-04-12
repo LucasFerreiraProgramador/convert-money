@@ -10,7 +10,7 @@ fetch(url)
     .then(response => response.json()) // Converte a resposta para JSON
     .then(data => {
 
-        const currencyKey = `${selectConvert.value}BRL`;
+        const currencyKey = `${selectConvert.value}BRL`; 
 
         // Acessa os dados da cotação do dólar
         const currency = data[currencyKey];
