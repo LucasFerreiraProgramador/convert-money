@@ -12,11 +12,11 @@ Este projeto é um conversor de moedas simples desenvolvido junto no DevClub. El
 index.html         # Página principal
 script.js          # Lógica de conversão e manipulação do DOM
 style.css          # Estilos da aplicação
-assets/            # Imagens das moedas e outros recursos visuais 
+assets/            # Imagens das moedas e outros recursos visuais  
 ```
 
 ## Deploy
-[Acesse o projeto online](https://lucasferreiraprogramador.github.io/convert-money/)
+[Acesse o projeto online](https://lucasferreiraprogramador.github.io/convert-money/)                
 
 ## Como usar
 1. Abra o arquivo `index.html` em seu navegador.
